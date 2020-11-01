@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 [![Farzad's github stats](https://github-readme-stats.vercel.app/api?username=Farzad-Jalali&&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/Farzad-Jalali/github-readme-stats)
 
-- 📚 **Currently studying** - Kotlin, GitHub Actions,
-- 🎚 **Stack** - Web Api, C#, .net framework & .net core, powershell
+- 📚 **Currently studying** - Kotlin, GitHub Actions
+- 🎚 **Stack** - Web Api, C#, .net framework & .net core, powershell,  Asp.Net Core
 - 🛠 **Tools** -  Kubernetes, Docker, Azure, Serverless, Azure Function, Azure SQL, Service Bus, Git, Azure DevOps, NO-SQL
 - 🏛 **Architecture Pattern** - Microservices , Event-Driven, SOA, N-Tier
 - ☕ Open to anything and everything!
