@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Farzad-Jalali/Farzad-Jalali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# Farzad Jalali's Portfolio  📇
 
 ![Banner Image](https://raw.githubusercontent.com/farzad-cv/farzad-cv.github.io/main/what-is-container-orchestration.jpg)
 ## Hello World! 🙋‍♂️🌍
