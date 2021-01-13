@@ -73,3 +73,6 @@ My favourite aspect of my job is to do the Risk Assessemnt for future projects, 
 - [Edit file in powershell ](https://blog.jalali.co.uk/2020/05/how-do-i-replace-some-text-inside-text.html)
 
 
+----------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farzad-Jalali&layout=compact)](https://github.com/Farzad-Jalali/github-readme-stats)
+
