@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-- 📚 **Currently studying** - Kotlin, GitHub Actions, GraphQL, gRPC
+- 📚 **Currently studying** - GitHub Actions, GraphQL, gRPC, Cloud Foundry
 - 🎚 **Stack** - Web Api, C#, .net framework & .net core, powershell,  Asp.Net Core
 - 🛠 **Tools** -  Kubernetes, Docker, Azure, Serverless, Azure Function, Azure SQL, Service Bus, Git, Azure DevOps, NO-SQL
 - 🏛 **Architecture Pattern** - Microservices , Event-Driven, SOA, N-Tier
@@ -72,7 +72,8 @@ My favourite aspect of my job is to do the Risk Assessemnt for future projects, 
 - [blog](https://blog.Jalali.co.uk)
 - [github](https://github.com/Farzad-Jalali)
 
-## 📝📑 My Articles
+## 📝📑 My Articles & Posts
+- [installing Heroku CLI on windows Subsystem for Linux](https://blog.jalali.co.uk/2020/05/installing-heroku-cli-on-windows.html)
 - [Edit file in powershell ](https://blog.jalali.co.uk/2020/05/how-do-i-replace-some-text-inside-text.html)
 
 
